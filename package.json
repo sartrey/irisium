@@ -1,0 +1,24 @@
+{
+  "name": "irisium",
+  "version": "0.1.0",
+  "description": "a themable component set using React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sartrey/irisium.git"
+  },
+  "keywords": [
+    "react",
+    "component",
+    "themable"
+  ],
+  "author": "Sartrey Lee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sartrey/irisium/issues"
+  },
+  "homepage": "https://github.com/sartrey/irisium#readme"
+}
